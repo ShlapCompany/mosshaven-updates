@@ -2,10 +2,10 @@
   "manifestVersion": 1,
   "mainMod": {
     "id": "mosshaven",
-    "version": "0.8.3",
-    "fileName": "mosshaven-0.8.3.jar",
-    "url": "https://github.com/ShlapCompany/mosshaven-updates/releases/download/v0.8.3/mosshaven-0.8.3.jar",
-    "sha256": "463260b011f66a878e6df503eb1eae3acbf51881f1ee550aad64ec2daad552f7",
+    "version": "0.8.4",
+    "fileName": "mosshaven-0.8.4.jar",
+    "url": "https://github.com/ShlapCompany/mosshaven-updates/releases/download/v0.8.4/mosshaven-0.8.4.jar",
+    "sha256": "64e4d74de5ef4325836272cafe34248c6b8cb856680e037ab81b587a3b4ff911",
     "required": true
   },
   "additionalMods": []
